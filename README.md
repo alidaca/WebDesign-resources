@@ -3,9 +3,11 @@
 
 #Fonts
 - [GoogleFonts pairings](https://femmebot.github.io/google-type/)
-- 
+- [Font-face guide](http://sixrevisions.com/css/font-face-guide/)
+ 
 #Icons
-- [working with svg icons](http://fvsch.com/code/svg-icons/how-to/)
+- [Working with svg icons](http://fvsch.com/code/svg-icons/how-to/)
+- [FavIcon template for Sketch](https://dribbble.com/shots/1746131-Sketch-Favicon-Template)
 
 #Html & Css
 - [Css positioning - pt 1](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwizieSazpvMAhUH7mMKHXcVASMQtwIIHTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkejG8G0dr5U&usg=AFQjCNHKdAHajgL-LqNFPm0jdCtuBFLckA&sig2=1VM2qCmxEWm2P5a0eYQSTA)
@@ -19,6 +21,6 @@
 - [Accessibility cheat-sheet](http://bitsofco.de/the-accessibility-cheatsheet/)
 - [Learning materials](http://bitsofco.de/the-accessibility-cheatsheet/)
 - [Aria periodic tables] (http://dylanb.github.io/)
-- 
+
 #Other
 - [101 ways to make your website more awesome](https://www.awesomeweb.com/blog/make-website-awesome)
