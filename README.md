@@ -16,6 +16,7 @@
 - [Flexbox reading list: techniques and tips](https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/)
 - [Building layouts with flexbox](http://callmenick.com/post/flexbox-examples)
 - [Flexbox guide (css-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Front-end tricks](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/?mc_cid=e55ae11b67&mc_eid=e9674d66a4)
  
 #Accessibility
 - [Wai-aria docs] (https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
