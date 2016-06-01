@@ -18,7 +18,7 @@
 - [Building layouts with flexbox](http://callmenick.com/post/flexbox-examples)
 - [Flexbox guide (css-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Front-end tricks](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/?mc_cid=e55ae11b67&mc_eid=e9674d66a4)
-
+-[Cleaning up a css code base](https://www.sitepoint.com/cleaning-up-a-css-codebase/)
 #Forms
 -[Forward thinking form validation](http://alistapart.com/article/forward-thinking-form-validation)
  
@@ -32,6 +32,7 @@
 
 #Workflow
 - [Gulp examples](http://julienrenaux.fr/2014/05/25/introduction-to-gulp-js-with-practical-examples/)
+- [Guidelines for frontend style guides](https://www.nngroup.com/articles/front-end-style-guides/)
 
 #Other
 - [101 ways to make your website more awesome](https://www.awesomeweb.com/blog/make-website-awesome)
