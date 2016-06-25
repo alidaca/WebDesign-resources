@@ -23,7 +23,7 @@
 -[Forward thinking form validation](http://alistapart.com/article/forward-thinking-form-validation)
  
 #Javascript
--[Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 #Accessibility
 - [Wai-aria docs] (https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
